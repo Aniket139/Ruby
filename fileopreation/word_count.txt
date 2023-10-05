@@ -1,0 +1,4 @@
+Welcome: 5
+to: 5
+softices: 5
+academy: 5
